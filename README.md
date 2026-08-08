@@ -19,7 +19,7 @@ The goal of this project was to replicate the look and feel of the Paytm website
 * Hover effects for buttons and cards
 * Clean and modern UI
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * HTML5
 * CSS3
@@ -79,7 +79,6 @@ This project helped me improve my understanding of:
 
 **Pragathi Priya**
 
-name
 
 ---
 
